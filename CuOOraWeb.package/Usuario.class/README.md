@@ -1,0 +1,1 @@
+"Representa un usuario en la red social CuOOra"

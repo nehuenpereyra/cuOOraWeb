@@ -1,0 +1,1 @@
+"Representa un topico de la red social"

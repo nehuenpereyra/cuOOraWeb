@@ -1,0 +1,1 @@
+"Representa un post de un usuario que puede ser de pregunta o respuesta"

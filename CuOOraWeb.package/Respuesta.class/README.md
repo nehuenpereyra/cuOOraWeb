@@ -1,0 +1,1 @@
+"Representa la respuesta enviada por un usuario"

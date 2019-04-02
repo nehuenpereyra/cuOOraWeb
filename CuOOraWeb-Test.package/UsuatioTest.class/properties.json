@@ -1,0 +1,32 @@
+{
+	"commentStamp" : "NehuenPereyra 3/28/2019 12:42",
+	"super" : "TestCase",
+	"category" : "CuOOraWeb-Test",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"user1",
+		"user2",
+		"user3",
+		"user4",
+		"user5",
+		"preg1",
+		"preg2",
+		"preg3",
+		"preg4",
+		"preg5",
+		"preg6",
+		"resp1",
+		"resp2",
+		"resp3",
+		"topic1",
+		"topic2",
+		"topic3",
+		"topic4",
+		"listaTopic",
+		"sistema"
+	],
+	"name" : "UsuatioTest",
+	"type" : "normal"
+}

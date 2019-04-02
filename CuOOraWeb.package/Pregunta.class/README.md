@@ -1,0 +1,1 @@
+"Representa una pregunta realizada por un usuario"

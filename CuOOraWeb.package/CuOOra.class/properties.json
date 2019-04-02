@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "nehuenpereyra 3/27/2019 17:22",
+	"super" : "Object",
+	"category" : "CuOOraWeb",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"listaUsuarios",
+		"listaTopicos"
+	],
+	"name" : "CuOOra",
+	"type" : "normal"
+}

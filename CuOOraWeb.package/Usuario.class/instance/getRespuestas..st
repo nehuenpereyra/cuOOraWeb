@@ -1,0 +1,2 @@
+accessing
+getRespuestas: unaPregunta

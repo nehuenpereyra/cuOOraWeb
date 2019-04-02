@@ -1,0 +1,3 @@
+accessing
+sizeListaDislike
+	^listaDislike size.

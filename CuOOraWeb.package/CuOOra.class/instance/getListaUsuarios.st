@@ -1,0 +1,3 @@
+accesing
+getListaUsuarios
+	^listaUsuarios.

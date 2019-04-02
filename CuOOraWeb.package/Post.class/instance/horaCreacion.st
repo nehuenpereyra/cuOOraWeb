@@ -1,0 +1,3 @@
+accessing
+horaCreacion
+	^fechaCreacion asTime.

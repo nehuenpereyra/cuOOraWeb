@@ -1,0 +1,3 @@
+accessing
+sizeListaLike
+	^listaLike size.

@@ -1,0 +1,1 @@
+"Representa el punto de arranque de la red social CuOOra"
